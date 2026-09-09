@@ -2,6 +2,14 @@
 
 > A custom, high-end MIDI performance utility plugin designed to bridge the gap between standard computer keyboard input and expressive live performance.
 
+## Interface
+
+### Dark Mode
+![Kinesis Engine Dark Theme](Screenshot%202026-08-26%20133916.png)
+
+### Light Mode
+![Kinesis Engine Light Theme](Screenshot%202026-08-26%20133931.png)
+
 ## Overview
 Built from the ground up using **C++** and the **JUCE Framework**, Kinesis Engine reimagines the traditional QWERTY keyboard as a dynamic, velocity-sensitive musical instrument. Bypassing standard UI templates in favor of a bespoke Neumorphic design, Kinesis delivers a tactile, premium studio-hardware experience directly to your digital workspace. 
 
